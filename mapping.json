@@ -1,0 +1,902 @@
+[
+  {
+    "new_name": "flower-01.jpg",
+    "original_name": "🌷小花仙子们会有香香的味道吗🌻_1_暹罗厘普_来自小红书网页版.jpg",
+    "series": "🌷小花仙子们会有香香的味道吗🌻",
+    "series_slug": "flower",
+    "order_index": 1,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/flower-01.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/flower-01.jpg"
+  },
+  {
+    "new_name": "flower-02.jpg",
+    "original_name": "🌷小花仙子们会有香香的味道吗🌻_2_暹罗厘普_来自小红书网页版.jpg",
+    "series": "🌷小花仙子们会有香香的味道吗🌻",
+    "series_slug": "flower",
+    "order_index": 2,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/flower-02.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/flower-02.jpg"
+  },
+  {
+    "new_name": "flower-03.jpg",
+    "original_name": "🌷小花仙子们会有香香的味道吗🌻_3_暹罗厘普_来自小红书网页版.jpg",
+    "series": "🌷小花仙子们会有香香的味道吗🌻",
+    "series_slug": "flower",
+    "order_index": 3,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/flower-03.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/flower-03.jpg"
+  },
+  {
+    "new_name": "flower-04.jpg",
+    "original_name": "🌷小花仙子们会有香香的味道吗🌻_4_暹罗厘普_来自小红书网页版.jpg",
+    "series": "🌷小花仙子们会有香香的味道吗🌻",
+    "series_slug": "flower",
+    "order_index": 4,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/flower-04.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/flower-04.jpg"
+  },
+  {
+    "new_name": "flower-05.jpg",
+    "original_name": "🌷小花仙子们会有香香的味道吗🌻_5_暹罗厘普_来自小红书网页版.jpg",
+    "series": "🌷小花仙子们会有香香的味道吗🌻",
+    "series_slug": "flower",
+    "order_index": 5,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/flower-05.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/flower-05.jpg"
+  },
+  {
+    "new_name": "xmas-01.jpg",
+    "original_name": "🎄圣诞佳节！_1_暹罗厘普_来自小红书网页版.jpg",
+    "series": "🎄圣诞佳节！",
+    "series_slug": "xmas",
+    "order_index": 1,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/xmas-01.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/xmas-01.jpg"
+  },
+  {
+    "new_name": "xmas-02.jpg",
+    "original_name": "🎄圣诞佳节！_2_暹罗厘普_来自小红书网页版.jpg",
+    "series": "🎄圣诞佳节！",
+    "series_slug": "xmas",
+    "order_index": 2,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/xmas-02.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/xmas-02.jpg"
+  },
+  {
+    "new_name": "xmas-03.jpg",
+    "original_name": "🎄圣诞佳节！_3_暹罗厘普_来自小红书网页版.jpg",
+    "series": "🎄圣诞佳节！",
+    "series_slug": "xmas",
+    "order_index": 3,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/xmas-03.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/xmas-03.jpg"
+  },
+  {
+    "new_name": "xmas-04.jpg",
+    "original_name": "🎄圣诞佳节！_4_暹罗厘普_来自小红书网页版.jpg",
+    "series": "🎄圣诞佳节！",
+    "series_slug": "xmas",
+    "order_index": 4,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/xmas-04.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/xmas-04.jpg"
+  },
+  {
+    "new_name": "xmas-05.jpg",
+    "original_name": "🎄圣诞佳节！_5_暹罗厘普_来自小红书网页版.jpg",
+    "series": "🎄圣诞佳节！",
+    "series_slug": "xmas",
+    "order_index": 5,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/xmas-05.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/xmas-05.jpg"
+  },
+  {
+    "new_name": "sleep-01.jpg",
+    "original_name": "帝王睡相_1_暹罗厘普_来自小红书网页版.jpg",
+    "series": "帝王睡相",
+    "series_slug": "sleep",
+    "order_index": 1,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/sleep-01.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/sleep-01.jpg"
+  },
+  {
+    "new_name": "sleep-02.jpg",
+    "original_name": "帝王睡相_3_暹罗厘普_来自小红书网页版.jpg",
+    "series": "帝王睡相",
+    "series_slug": "sleep",
+    "order_index": 2,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/sleep-02.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/sleep-02.jpg"
+  },
+  {
+    "new_name": "sleep-03.jpg",
+    "original_name": "帝王睡相_4_暹罗厘普_来自小红书网页版.jpg",
+    "series": "帝王睡相",
+    "series_slug": "sleep",
+    "order_index": 3,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/sleep-03.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/sleep-03.jpg"
+  },
+  {
+    "new_name": "sleep-04.jpg",
+    "original_name": "帝王睡相_5_暹罗厘普_来自小红书网页版.jpg",
+    "series": "帝王睡相",
+    "series_slug": "sleep",
+    "order_index": 4,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/sleep-04.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/sleep-04.jpg"
+  },
+  {
+    "new_name": "sleep-05.jpg",
+    "original_name": "帝王睡相_7_暹罗厘普_来自小红书网页版.jpg",
+    "series": "帝王睡相",
+    "series_slug": "sleep",
+    "order_index": 5,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/sleep-05.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/sleep-05.jpg"
+  },
+  {
+    "new_name": "sleep-06.jpg",
+    "original_name": "帝王睡相_9_暹罗厘普_来自小红书网页版.jpg",
+    "series": "帝王睡相",
+    "series_slug": "sleep",
+    "order_index": 6,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/sleep-06.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/sleep-06.jpg"
+  },
+  {
+    "new_name": "foryou-01.jpg",
+    "original_name": "给你的☺️_1_暹罗厘普_来自小红书网页版.jpg",
+    "series": "给你的☺️",
+    "series_slug": "foryou",
+    "order_index": 1,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/foryou-01.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/foryou-01.jpg"
+  },
+  {
+    "new_name": "foryou-02.jpg",
+    "original_name": "给你的☺️_2_暹罗厘普_来自小红书网页版.jpg",
+    "series": "给你的☺️",
+    "series_slug": "foryou",
+    "order_index": 2,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/foryou-02.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/foryou-02.jpg"
+  },
+  {
+    "new_name": "foryou-03.jpg",
+    "original_name": "给你的☺️_3_暹罗厘普_来自小红书网页版.jpg",
+    "series": "给你的☺️",
+    "series_slug": "foryou",
+    "order_index": 3,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/foryou-03.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/foryou-03.jpg"
+  },
+  {
+    "new_name": "foryou-04.jpg",
+    "original_name": "给你的☺️_4_暹罗厘普_来自小红书网页版.jpg",
+    "series": "给你的☺️",
+    "series_slug": "foryou",
+    "order_index": 4,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/foryou-04.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/foryou-04.jpg"
+  },
+  {
+    "new_name": "foryou-05.jpg",
+    "original_name": "给你的☺️_5_暹罗厘普_来自小红书网页版.jpg",
+    "series": "给你的☺️",
+    "series_slug": "foryou",
+    "order_index": 5,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/foryou-05.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/foryou-05.jpg"
+  },
+  {
+    "new_name": "foryou-06.jpg",
+    "original_name": "给你的☺️_7_暹罗厘普_来自小红书网页版.jpg",
+    "series": "给你的☺️",
+    "series_slug": "foryou",
+    "order_index": 6,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/foryou-06.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/foryou-06.jpg"
+  },
+  {
+    "new_name": "foryou-07.jpg",
+    "original_name": "给你的☺️_8_暹罗厘普_来自小红书网页版.jpg",
+    "series": "给你的☺️",
+    "series_slug": "foryou",
+    "order_index": 7,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/foryou-07.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/foryou-07.jpg"
+  },
+  {
+    "new_name": "dog-01.jpg",
+    "original_name": "好可爱的16个小狗呀^ ^_1_暹罗厘普_来自小红书网页版.jpg",
+    "series": "好可爱的16个小狗呀^ ^",
+    "series_slug": "dog",
+    "order_index": 1,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/dog-01.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/dog-01.jpg"
+  },
+  {
+    "new_name": "dog-02.jpg",
+    "original_name": "好可爱的16个小狗呀^ ^_2_暹罗厘普_来自小红书网页版.jpg",
+    "series": "好可爱的16个小狗呀^ ^",
+    "series_slug": "dog",
+    "order_index": 2,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/dog-02.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/dog-02.jpg"
+  },
+  {
+    "new_name": "dog-03.jpg",
+    "original_name": "好可爱的16个小狗呀^ ^_3_暹罗厘普_来自小红书网页版.jpg",
+    "series": "好可爱的16个小狗呀^ ^",
+    "series_slug": "dog",
+    "order_index": 3,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/dog-03.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/dog-03.jpg"
+  },
+  {
+    "new_name": "dog-04.jpg",
+    "original_name": "好可爱的16个小狗呀^ ^_4_暹罗厘普_来自小红书网页版.jpg",
+    "series": "好可爱的16个小狗呀^ ^",
+    "series_slug": "dog",
+    "order_index": 4,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/dog-04.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/dog-04.jpg"
+  },
+  {
+    "new_name": "dog-05.jpg",
+    "original_name": "好可爱的16个小狗呀^ ^_5_暹罗厘普_来自小红书网页版.jpg",
+    "series": "好可爱的16个小狗呀^ ^",
+    "series_slug": "dog",
+    "order_index": 5,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/dog-05.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/dog-05.jpg"
+  },
+  {
+    "new_name": "dog-06.jpg",
+    "original_name": "好可爱的16个小狗呀^ ^_6_暹罗厘普_来自小红书网页版.jpg",
+    "series": "好可爱的16个小狗呀^ ^",
+    "series_slug": "dog",
+    "order_index": 6,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/dog-06.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/dog-06.jpg"
+  },
+  {
+    "new_name": "dog-07.jpg",
+    "original_name": "好可爱的16个小狗呀^ ^_7_暹罗厘普_来自小红书网页版.jpg",
+    "series": "好可爱的16个小狗呀^ ^",
+    "series_slug": "dog",
+    "order_index": 7,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/dog-07.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/dog-07.jpg"
+  },
+  {
+    "new_name": "dog-08.jpg",
+    "original_name": "好可爱的16个小狗呀^ ^_8_暹罗厘普_来自小红书网页版.jpg",
+    "series": "好可爱的16个小狗呀^ ^",
+    "series_slug": "dog",
+    "order_index": 8,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/dog-08.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/dog-08.jpg"
+  },
+  {
+    "new_name": "dog-09.jpg",
+    "original_name": "好可爱的16个小狗呀^ ^_9_暹罗厘普_来自小红书网页版.jpg",
+    "series": "好可爱的16个小狗呀^ ^",
+    "series_slug": "dog",
+    "order_index": 9,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/dog-09.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/dog-09.jpg"
+  },
+  {
+    "new_name": "dog-10.jpg",
+    "original_name": "好可爱的16个小狗呀^ ^_10_暹罗厘普_来自小红书网页版.jpg",
+    "series": "好可爱的16个小狗呀^ ^",
+    "series_slug": "dog",
+    "order_index": 10,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/dog-10.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/dog-10.jpg"
+  },
+  {
+    "new_name": "dog-11.jpg",
+    "original_name": "好可爱的16个小狗呀^ ^_11_暹罗厘普_来自小红书网页版.jpg",
+    "series": "好可爱的16个小狗呀^ ^",
+    "series_slug": "dog",
+    "order_index": 11,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/dog-11.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/dog-11.jpg"
+  },
+  {
+    "new_name": "dog-12.jpg",
+    "original_name": "好可爱的16个小狗呀^ ^_12_暹罗厘普_来自小红书网页版.jpg",
+    "series": "好可爱的16个小狗呀^ ^",
+    "series_slug": "dog",
+    "order_index": 12,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/dog-12.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/dog-12.jpg"
+  },
+  {
+    "new_name": "dog-13.jpg",
+    "original_name": "好可爱的16个小狗呀^ ^_13_暹罗厘普_来自小红书网页版.jpg",
+    "series": "好可爱的16个小狗呀^ ^",
+    "series_slug": "dog",
+    "order_index": 13,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/dog-13.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/dog-13.jpg"
+  },
+  {
+    "new_name": "dog-14.jpg",
+    "original_name": "好可爱的16个小狗呀^ ^_14_暹罗厘普_来自小红书网页版.jpg",
+    "series": "好可爱的16个小狗呀^ ^",
+    "series_slug": "dog",
+    "order_index": 14,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/dog-14.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/dog-14.jpg"
+  },
+  {
+    "new_name": "dog-15.jpg",
+    "original_name": "好可爱的16个小狗呀^ ^_16_暹罗厘普_来自小红书网页版.jpg",
+    "series": "好可爱的16个小狗呀^ ^",
+    "series_slug": "dog",
+    "order_index": 15,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/dog-15.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/dog-15.jpg"
+  },
+  {
+    "new_name": "hot-01.jpg",
+    "original_name": "很热！！！！！_2_暹罗厘普_来自小红书网页版.jpg",
+    "series": "很热！！！！！",
+    "series_slug": "hot",
+    "order_index": 1,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/hot-01.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/hot-01.jpg"
+  },
+  {
+    "new_name": "hot-02.jpg",
+    "original_name": "很热！！！！！_4_暹罗厘普_来自小红书网页版.jpg",
+    "series": "很热！！！！！",
+    "series_slug": "hot",
+    "order_index": 2,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/hot-02.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/hot-02.jpg"
+  },
+  {
+    "new_name": "hot-03.jpg",
+    "original_name": "很热！！！！！_5_暹罗厘普_来自小红书网页版.jpg",
+    "series": "很热！！！！！",
+    "series_slug": "hot",
+    "order_index": 3,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/hot-03.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/hot-03.jpg"
+  },
+  {
+    "new_name": "hot-04.jpg",
+    "original_name": "很热！！！！！_6_暹罗厘普_来自小红书网页版.jpg",
+    "series": "很热！！！！！",
+    "series_slug": "hot",
+    "order_index": 4,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/hot-04.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/hot-04.jpg"
+  },
+  {
+    "new_name": "hot-05.jpg",
+    "original_name": "很热！！！！！_7_暹罗厘普_来自小红书网页版.jpg",
+    "series": "很热！！！！！",
+    "series_slug": "hot",
+    "order_index": 5,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/hot-05.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/hot-05.jpg"
+  },
+  {
+    "new_name": "rain-01.jpg",
+    "original_name": "老天爷你别下了我害怕_1_暹罗厘普_来自小红书网页版.jpg",
+    "series": "老天爷你别下了我害怕",
+    "series_slug": "rain",
+    "order_index": 1,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/rain-01.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/rain-01.jpg"
+  },
+  {
+    "new_name": "rain-02.jpg",
+    "original_name": "老天爷你别下了我害怕_2_暹罗厘普_来自小红书网页版.jpg",
+    "series": "老天爷你别下了我害怕",
+    "series_slug": "rain",
+    "order_index": 2,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/rain-02.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/rain-02.jpg"
+  },
+  {
+    "new_name": "rain-03.jpg",
+    "original_name": "老天爷你别下了我害怕_3_暹罗厘普_来自小红书网页版.jpg",
+    "series": "老天爷你别下了我害怕",
+    "series_slug": "rain",
+    "order_index": 3,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/rain-03.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/rain-03.jpg"
+  },
+  {
+    "new_name": "rain-04.jpg",
+    "original_name": "老天爷你别下了我害怕_4_暹罗厘普_来自小红书网页版.jpg",
+    "series": "老天爷你别下了我害怕",
+    "series_slug": "rain",
+    "order_index": 4,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/rain-04.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/rain-04.jpg"
+  },
+  {
+    "new_name": "rain-05.jpg",
+    "original_name": "老天爷你别下了我害怕_5_暹罗厘普_来自小红书网页版.jpg",
+    "series": "老天爷你别下了我害怕",
+    "series_slug": "rain",
+    "order_index": 5,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/rain-05.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/rain-05.jpg"
+  },
+  {
+    "new_name": "food-01.jpg",
+    "original_name": "朋友帮我带了饭回来但我不敢吃_1_暹罗厘普_来自小红书网页版.jpg",
+    "series": "朋友帮我带了饭回来但我不敢吃",
+    "series_slug": "food",
+    "order_index": 1,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/food-01.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/food-01.jpg"
+  },
+  {
+    "new_name": "aunt-01.jpg",
+    "original_name": "七个老姨算一难_1_暹罗厘普_来自小红书网页版.jpg",
+    "series": "七个老姨算一难",
+    "series_slug": "aunt",
+    "order_index": 1,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/aunt-01.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/aunt-01.jpg"
+  },
+  {
+    "new_name": "aunt-02.jpg",
+    "original_name": "七个老姨算一难_2_暹罗厘普_来自小红书网页版.jpg",
+    "series": "七个老姨算一难",
+    "series_slug": "aunt",
+    "order_index": 2,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/aunt-02.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/aunt-02.jpg"
+  },
+  {
+    "new_name": "aunt-03.jpg",
+    "original_name": "七个老姨算一难_3_暹罗厘普_来自小红书网页版.jpg",
+    "series": "七个老姨算一难",
+    "series_slug": "aunt",
+    "order_index": 3,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/aunt-03.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/aunt-03.jpg"
+  },
+  {
+    "new_name": "aunt-04.jpg",
+    "original_name": "七个老姨算一难_4_暹罗厘普_来自小红书网页版.jpg",
+    "series": "七个老姨算一难",
+    "series_slug": "aunt",
+    "order_index": 4,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/aunt-04.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/aunt-04.jpg"
+  },
+  {
+    "new_name": "cool-01.jpg",
+    "original_name": "前途一片阴暗 好凉快_1_暹罗厘普_来自小红书网页版 (1).jpg",
+    "series": "前途一片阴暗 好凉快",
+    "series_slug": "cool",
+    "order_index": 1,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/cool-01.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/cool-01.jpg"
+  },
+  {
+    "new_name": "cool-02.jpg",
+    "original_name": "前途一片阴暗 好凉快_2_暹罗厘普_来自小红书网页版.jpg",
+    "series": "前途一片阴暗 好凉快",
+    "series_slug": "cool",
+    "order_index": 2,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/cool-02.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/cool-02.jpg"
+  },
+  {
+    "new_name": "cool-03.jpg",
+    "original_name": "前途一片阴暗 好凉快_3_暹罗厘普_来自小红书网页版.jpg",
+    "series": "前途一片阴暗 好凉快",
+    "series_slug": "cool",
+    "order_index": 3,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/cool-03.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/cool-03.jpg"
+  },
+  {
+    "new_name": "cool-04.jpg",
+    "original_name": "前途一片阴暗 好凉快_4_暹罗厘普_来自小红书网页版.jpg",
+    "series": "前途一片阴暗 好凉快",
+    "series_slug": "cool",
+    "order_index": 4,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/cool-04.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/cool-04.jpg"
+  },
+  {
+    "new_name": "cool-05.jpg",
+    "original_name": "前途一片阴暗 好凉快_5_暹罗厘普_来自小红书网页版.jpg",
+    "series": "前途一片阴暗 好凉快",
+    "series_slug": "cool",
+    "order_index": 5,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/cool-05.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/cool-05.jpg"
+  },
+  {
+    "new_name": "sorry-01.jpg",
+    "original_name": "请原谅(^з^)-☆_2_暹罗厘普_来自小红书网页版.jpg",
+    "series": "请原谅(^з^)-☆",
+    "series_slug": "sorry",
+    "order_index": 1,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/sorry-01.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/sorry-01.jpg"
+  },
+  {
+    "new_name": "sorry-02.jpg",
+    "original_name": "请原谅(^з^)-☆_3_暹罗厘普_来自小红书网页版.jpg",
+    "series": "请原谅(^з^)-☆",
+    "series_slug": "sorry",
+    "order_index": 2,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/sorry-02.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/sorry-02.jpg"
+  },
+  {
+    "new_name": "sorry-03.jpg",
+    "original_name": "请原谅(^з^)-☆_4_暹罗厘普_来自小红书网页版.jpg",
+    "series": "请原谅(^з^)-☆",
+    "series_slug": "sorry",
+    "order_index": 3,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/sorry-03.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/sorry-03.jpg"
+  },
+  {
+    "new_name": "sorry-04.jpg",
+    "original_name": "请原谅(^з^)-☆_5_暹罗厘普_来自小红书网页版.jpg",
+    "series": "请原谅(^з^)-☆",
+    "series_slug": "sorry",
+    "order_index": 4,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/sorry-04.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/sorry-04.jpg"
+  },
+  {
+    "new_name": "sorry-05.jpg",
+    "original_name": "请原谅(^з^)-☆_6_暹罗厘普_来自小红书网页版.jpg",
+    "series": "请原谅(^з^)-☆",
+    "series_slug": "sorry",
+    "order_index": 5,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/sorry-05.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/sorry-05.jpg"
+  },
+  {
+    "new_name": "sorry-06.jpg",
+    "original_name": "请原谅(^з^)-☆_7_暹罗厘普_来自小红书网页版.jpg",
+    "series": "请原谅(^з^)-☆",
+    "series_slug": "sorry",
+    "order_index": 6,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/sorry-06.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/sorry-06.jpg"
+  },
+  {
+    "new_name": "cube-01.jpg",
+    "original_name": "是不是有点太棱角分明了老师_1_暹罗厘普_来自小红书网页版.jpg",
+    "series": "是不是有点太棱角分明了老师",
+    "series_slug": "cube",
+    "order_index": 1,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/cube-01.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/cube-01.jpg"
+  },
+  {
+    "new_name": "cube-02.jpg",
+    "original_name": "是不是有点太棱角分明了老师_2_暹罗厘普_来自小红书网页版.jpg",
+    "series": "是不是有点太棱角分明了老师",
+    "series_slug": "cube",
+    "order_index": 2,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/cube-02.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/cube-02.jpg"
+  },
+  {
+    "new_name": "cube-03.jpg",
+    "original_name": "是不是有点太棱角分明了老师_3_暹罗厘普_来自小红书网页版.jpg",
+    "series": "是不是有点太棱角分明了老师",
+    "series_slug": "cube",
+    "order_index": 3,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/cube-03.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/cube-03.jpg"
+  },
+  {
+    "new_name": "cube-04.jpg",
+    "original_name": "是不是有点太棱角分明了老师_4_暹罗厘普_来自小红书网页版.jpg",
+    "series": "是不是有点太棱角分明了老师",
+    "series_slug": "cube",
+    "order_index": 4,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/cube-04.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/cube-04.jpg"
+  },
+  {
+    "new_name": "cube-05.jpg",
+    "original_name": "是不是有点太棱角分明了老师_5_暹罗厘普_来自小红书网页版.jpg",
+    "series": "是不是有点太棱角分明了老师",
+    "series_slug": "cube",
+    "order_index": 5,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/cube-05.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/cube-05.jpg"
+  },
+  {
+    "new_name": "xllp-01.jpg",
+    "original_name": "是xllp表情包！这下不得不用了！_1_暹罗厘普_来自小红书网页版.jpg",
+    "series": "是xllp表情包！这下不得不用了！",
+    "series_slug": "xllp",
+    "order_index": 1,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/xllp-01.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/xllp-01.jpg"
+  },
+  {
+    "new_name": "xllp-02.jpg",
+    "original_name": "是xllp表情包！这下不得不用了！_2_暹罗厘普_来自小红书网页版.jpg",
+    "series": "是xllp表情包！这下不得不用了！",
+    "series_slug": "xllp",
+    "order_index": 2,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/xllp-02.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/xllp-02.jpg"
+  },
+  {
+    "new_name": "xllp-03.jpg",
+    "original_name": "是xllp表情包！这下不得不用了！_3_暹罗厘普_来自小红书网页版.jpg",
+    "series": "是xllp表情包！这下不得不用了！",
+    "series_slug": "xllp",
+    "order_index": 3,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/xllp-03.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/xllp-03.jpg"
+  },
+  {
+    "new_name": "xllp-04.jpg",
+    "original_name": "是xllp表情包！这下不得不用了！_4_暹罗厘普_来自小红书网页版.jpg",
+    "series": "是xllp表情包！这下不得不用了！",
+    "series_slug": "xllp",
+    "order_index": 4,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/xllp-04.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/xllp-04.jpg"
+  },
+  {
+    "new_name": "xllp-05.jpg",
+    "original_name": "是xllp表情包！这下不得不用了！_5_暹罗厘普_来自小红书网页版.jpg",
+    "series": "是xllp表情包！这下不得不用了！",
+    "series_slug": "xllp",
+    "order_index": 5,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/xllp-05.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/xllp-05.jpg"
+  },
+  {
+    "new_name": "xllp-06.jpg",
+    "original_name": "是xllp表情包！这下不得不用了！_6_暹罗厘普_来自小红书网页版.jpg",
+    "series": "是xllp表情包！这下不得不用了！",
+    "series_slug": "xllp",
+    "order_index": 6,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/xllp-06.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/xllp-06.jpg"
+  },
+  {
+    "new_name": "xllp-07.jpg",
+    "original_name": "是xllp表情包！这下不得不用了！_9_暹罗厘普_来自小红书网页版.jpg",
+    "series": "是xllp表情包！这下不得不用了！",
+    "series_slug": "xllp",
+    "order_index": 7,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/xllp-07.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/xllp-07.jpg"
+  },
+  {
+    "new_name": "xllp-08.jpg",
+    "original_name": "是xllp表情包！这下不得不用了！_10_暹罗厘普_来自小红书网页版.jpg",
+    "series": "是xllp表情包！这下不得不用了！",
+    "series_slug": "xllp",
+    "order_index": 8,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/xllp-08.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/xllp-08.jpg"
+  },
+  {
+    "new_name": "xllp-09.jpg",
+    "original_name": "是xllp表情包！这下不得不用了！_11_暹罗厘普_来自小红书网页版.jpg",
+    "series": "是xllp表情包！这下不得不用了！",
+    "series_slug": "xllp",
+    "order_index": 9,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/xllp-09.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/xllp-09.jpg"
+  },
+  {
+    "new_name": "xllp-10.jpg",
+    "original_name": "是xllp表情包！这下不得不用了！_13_暹罗厘普_来自小红书网页版.jpg",
+    "series": "是xllp表情包！这下不得不用了！",
+    "series_slug": "xllp",
+    "order_index": 10,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/xllp-10.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/xllp-10.jpg"
+  },
+  {
+    "new_name": "xllp-11.jpg",
+    "original_name": "是xllp表情包！这下不得不用了！_14_暹罗厘普_来自小红书网页版.jpg",
+    "series": "是xllp表情包！这下不得不用了！",
+    "series_slug": "xllp",
+    "order_index": 11,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/xllp-11.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/xllp-11.jpg"
+  },
+  {
+    "new_name": "know-01.jpg",
+    "original_name": "我全都知道了_1_暹罗厘普_来自小红书网页版.jpg",
+    "series": "我全都知道了",
+    "series_slug": "know",
+    "order_index": 1,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/know-01.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/know-01.jpg"
+  },
+  {
+    "new_name": "know-02.jpg",
+    "original_name": "我全都知道了_2_暹罗厘普_来自小红书网页版.jpg",
+    "series": "我全都知道了",
+    "series_slug": "know",
+    "order_index": 2,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/know-02.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/know-02.jpg"
+  },
+  {
+    "new_name": "know-03.jpg",
+    "original_name": "我全都知道了_3_暹罗厘普_来自小红书网页版.jpg",
+    "series": "我全都知道了",
+    "series_slug": "know",
+    "order_index": 3,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/know-03.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/know-03.jpg"
+  },
+  {
+    "new_name": "know-04.jpg",
+    "original_name": "我全都知道了_6_暹罗厘普_来自小红书网页版.jpg",
+    "series": "我全都知道了",
+    "series_slug": "know",
+    "order_index": 4,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/know-04.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/know-04.jpg"
+  },
+  {
+    "new_name": "know-05.jpg",
+    "original_name": "我全都知道了_7_暹罗厘普_来自小红书网页版.jpg",
+    "series": "我全都知道了",
+    "series_slug": "know",
+    "order_index": 5,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/know-05.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/know-05.jpg"
+  },
+  {
+    "new_name": "know-06.jpg",
+    "original_name": "我全都知道了_8_暹罗厘普_来自小红书网页版.jpg",
+    "series": "我全都知道了",
+    "series_slug": "know",
+    "order_index": 6,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/know-06.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/know-06.jpg"
+  },
+  {
+    "new_name": "know-07.jpg",
+    "original_name": "我全都知道了_9_暹罗厘普_来自小红书网页版.jpg",
+    "series": "我全都知道了",
+    "series_slug": "know",
+    "order_index": 7,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/know-07.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/know-07.jpg"
+  },
+  {
+    "new_name": "who-01.jpg",
+    "original_name": "这样的表情到底是谁在用啊？_1_暹罗厘普_来自小红书网页版.jpg",
+    "series": "这样的表情到底是谁在用啊？",
+    "series_slug": "who",
+    "order_index": 1,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/who-01.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/who-01.jpg"
+  },
+  {
+    "new_name": "who-02.jpg",
+    "original_name": "这样的表情到底是谁在用啊？_2_暹罗厘普_来自小红书网页版.jpg",
+    "series": "这样的表情到底是谁在用啊？",
+    "series_slug": "who",
+    "order_index": 2,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/who-02.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/who-02.jpg"
+  },
+  {
+    "new_name": "who-03.jpg",
+    "original_name": "这样的表情到底是谁在用啊？_3_暹罗厘普_来自小红书网页版.jpg",
+    "series": "这样的表情到底是谁在用啊？",
+    "series_slug": "who",
+    "order_index": 3,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/who-03.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/who-03.jpg"
+  },
+  {
+    "new_name": "who-04.jpg",
+    "original_name": "这样的表情到底是谁在用啊？_4_暹罗厘普_来自小红书网页版.jpg",
+    "series": "这样的表情到底是谁在用啊？",
+    "series_slug": "who",
+    "order_index": 4,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/who-04.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/who-04.jpg"
+  },
+  {
+    "new_name": "who-05.jpg",
+    "original_name": "这样的表情到底是谁在用啊？_5_暹罗厘普_来自小红书网页版.jpg",
+    "series": "这样的表情到底是谁在用啊？",
+    "series_slug": "who",
+    "order_index": 5,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/who-05.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/who-05.jpg"
+  },
+  {
+    "new_name": "who-06.jpg",
+    "original_name": "这样的表情到底是谁在用啊？_6_暹罗厘普_来自小红书网页版.jpg",
+    "series": "这样的表情到底是谁在用啊？",
+    "series_slug": "who",
+    "order_index": 6,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/who-06.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/who-06.jpg"
+  },
+  {
+    "new_name": "who-07.jpg",
+    "original_name": "这样的表情到底是谁在用啊？_7_暹罗厘普_来自小红书网页版.jpg",
+    "series": "这样的表情到底是谁在用啊？",
+    "series_slug": "who",
+    "order_index": 7,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/who-07.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/who-07.jpg"
+  },
+  {
+    "new_name": "who-08.jpg",
+    "original_name": "这样的表情到底是谁在用啊？_8_暹罗厘普_来自小红书网页版.jpg",
+    "series": "这样的表情到底是谁在用啊？",
+    "series_slug": "who",
+    "order_index": 8,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/who-08.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/who-08.jpg"
+  },
+  {
+    "new_name": "who-09.jpg",
+    "original_name": "这样的表情到底是谁在用啊？_9_暹罗厘普_来自小红书网页版.jpg",
+    "series": "这样的表情到底是谁在用啊？",
+    "series_slug": "who",
+    "order_index": 9,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/who-09.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/who-09.jpg"
+  },
+  {
+    "new_name": "who-10.jpg",
+    "original_name": "这样的表情到底是谁在用啊？_10_暹罗厘普_来自小红书网页版.jpg",
+    "series": "这样的表情到底是谁在用啊？",
+    "series_slug": "who",
+    "order_index": 10,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/who-10.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/who-10.jpg"
+  },
+  {
+    "new_name": "summer-01.jpg",
+    "original_name": "征集高效的解暑招数 被采纳者将被采纳_3_暹罗厘普_来自小红书网页版.jpg",
+    "series": "征集高效的解暑招数 被采纳者将被采纳",
+    "series_slug": "summer",
+    "order_index": 1,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/summer-01.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/summer-01.jpg"
+  },
+  {
+    "new_name": "summer-02.jpg",
+    "original_name": "征集高效的解暑招数 被采纳者将被采纳_4_暹罗厘普_来自小红书网页版.jpg",
+    "series": "征集高效的解暑招数 被采纳者将被采纳",
+    "series_slug": "summer",
+    "order_index": 2,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/summer-02.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/summer-02.jpg"
+  },
+  {
+    "new_name": "summer-03.jpg",
+    "original_name": "征集高效的解暑招数 被采纳者将被采纳_5_暹罗厘普_来自小红书网页版.jpg",
+    "series": "征集高效的解暑招数 被采纳者将被采纳",
+    "series_slug": "summer",
+    "order_index": 3,
+    "raw_url": "https://raw.githubusercontent.com/wilderye/avatars/main/summer-03.jpg",
+    "jsdelivr_url": "https://cdn.jsdelivr.net/gh/wilderye/avatars@main/summer-03.jpg"
+  }
+]
